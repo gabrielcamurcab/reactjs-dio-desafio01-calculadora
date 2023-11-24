@@ -18,12 +18,11 @@ export const InputContainer = styled.div`
     height: 75px;
     background-color: #004d66;
     border: 0;
-
-    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
     color: #ffffff;
-
     padding: 0 10px;
-
     font-size: 24px;
     font-family: sans-serif;
   }

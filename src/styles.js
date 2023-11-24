@@ -12,7 +12,7 @@ export const Container = styled.div`
 
 export const Content = styled.div`
     background-color: #FFFFFF;
-    width: 40%;
+    width: 50%;
 `
 
 export const Row = styled.div`
@@ -20,7 +20,6 @@ export const Row = styled.div`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
 `
 
 export const Column = styled.div`
